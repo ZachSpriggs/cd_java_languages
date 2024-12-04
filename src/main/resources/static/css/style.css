@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+.wrapper{ 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.languages {
+	width: 700px;
+	border: 2px solid black;
+	margin-top: 100px;
+	padding: 20px;
+	background-color: lightblue;
+}
+
+.forms {
+	width: 700px;
+	border: 1px solid green;
+	margin-top: 100px;
+	padding: 10px;
+	background-color: lightgreen;
+}
